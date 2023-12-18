@@ -2,8 +2,7 @@
 
 import { useTheme } from "next-themes";
 import {
-  BlockNoteEditor,
-  PartialBlock
+  BlockNoteEditor
 } from "@blocknote/core";
 import {
   BlockNoteView,
